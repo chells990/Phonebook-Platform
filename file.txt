@@ -1,0 +1,7 @@
+2
+1
+A|089643007809|hayooo@gmail.com
+B|2501991611|marchel@binus.ac.id
+L|2501991611|marchel@binus.ac.id
+O|2502014652|naufal@gmail.com
+P|2501991611|marchel@binus.ac.id
